@@ -1,0 +1,67 @@
+body{
+    overflow-x: hidden;
+    font-weight: 100;
+}
+
+.products{
+    padding: 0px 50px;
+    min-height: 100vh;
+    background: linear-gradient(#fff0,#fffe), url("./assets/PAIGE-interior-2-1024x698.jpg") no-repeat;
+    background-size: 100%;
+    border: 10px solid red;
+    input{
+      padding: 7px;
+    }
+    .search{
+      padding: 7px;
+      color: #ffff;
+      background: #000f;
+    }
+}
+.product{
+  margin: 25px;
+  padding: 50px;
+}
+.productList{
+    min-height: 70vh;
+}
+
+.filters{
+  input{
+    width: 100%;
+    padding: 7px;
+  }
+  button{
+    width: 100%;
+  }
+}
+
+.details{
+    padding: 25px 50px;
+    min-height: 100vh;
+    background: linear-gradient(#fffe,#fffe), url("./assets/PAIGE-interior-2-1024x698.jpg") no-repeat;
+    background-size: cover;
+    input, textarea{
+        margin: 5px auto;
+        width: 50%;
+        padding: 5px;
+    }
+
+}
+
+.submit{
+  width: 50%;
+  padding: 7px;
+  color: #ffff;
+  background: #000f;
+}
+.submit-red{
+    width: 50%;
+    padding: 7px;
+    color: #f00f;
+    background: #f000;
+    border: 2px solid #f00f;
+}
+
+
+

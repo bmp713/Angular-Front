@@ -32,3 +32,4 @@ FEATURES
 - Product page has form validation for each field character length, and if filled in
 - Delete product button was moved to product details to prevent accidental deletes
 
+https://angular7-front.web.app
